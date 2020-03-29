@@ -1,5 +1,5 @@
 # ITIL
-##ITIL  Incident Management Process 
+## ITIL Incident Management Process 
 
 In this project, I have applied the ITIL  incident management process to handle common an Oracle database incident. The focus of the project is NOT resolving an incident itself but demonstrating my understanding of managing the incident management process. 
 
